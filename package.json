@@ -3,11 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.1",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
-    "react-scripts": "4.0.1"
+    "react-scripts": "5.0.0"
   },
   "proxy": "http://backend:80",
   "scripts": {
